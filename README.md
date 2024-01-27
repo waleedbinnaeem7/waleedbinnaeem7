@@ -7,7 +7,7 @@
   
 </div>
 
-I am a founder of [Solutions Boat](https://solutionsboat.com/) and also working at **Asteck Solution** and **Internee.pk**, where I am involved in managing projects such as the **Human Resource Management System** and the **Learning Management System** I've also worked with 100s of the client as a freelancer for "Website Development" work with **5 Stars Rating**.
+I am a founder of [Solutions Boat](https://solutionsboat.com/) and also working at **Asteck Solution** and **Internee.pk**, where I am involved in managing projects such as the **Human Resource Management System** and the **Learning Management System** I've also worked with 100s of the client as a freelancer for "Website Development" work with **[5 Stars Rating](https://www.behance.net/gallery/172790989/Testimonials)**.
 
 #### Current Projects:
 - **Human Resource Management System (HRMS)**
