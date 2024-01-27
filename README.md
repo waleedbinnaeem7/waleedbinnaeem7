@@ -58,4 +58,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedbinnaeem7&show_icons=true&locale=en" alt="waleedbinnaeem7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedbinnaeem7&" alt="waleedbinnaeem7" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=waleedbinnaeem7&theme=dark" alt="GitHub Streak" /></a></p>
