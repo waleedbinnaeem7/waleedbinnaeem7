@@ -16,9 +16,7 @@ I am a founder of [Solutions Boat](https://solutionsboat.com/) and also working 
 
 #### Expertise:
 I specialize in developing software using Flutter (Dart) and C# technologies. My experience includes working with:
-- **Windows Forms**
 - **ASP.NET**
-- **MVC**
 - **Entity Framework**
 - **DevExpress**
 - **SQL Server**
