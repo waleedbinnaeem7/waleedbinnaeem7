@@ -3,7 +3,7 @@
 
 <div align="left">
   
-[![](https://visitcount.itsvg.in/api?id=maksof-jawad&icon=3&color=6)](https://github.com/maksof-jawad)
+[![](https://visitcount.itsvg.in/api?id=waleedbinnaeem7&icon=3&color=6)](https://github.com/waleedbinnaeem7)
   
 </div>
 
