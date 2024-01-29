@@ -7,12 +7,8 @@
   
 </div>
 
-I am a founder of [Solutions Boat](https://solutionsboat.com/) and also working at **Asteck Solution** and **Internee.pk**, where I am involved in managing projects such as the **Human Resource Management System** and the **Learning Management System** I've also worked with 100s of the client as a freelancer for "Website Development" work with **[5 Stars Rating](https://www.behance.net/gallery/172790989/Testimonials)**.
-
-#### Current Projects:
-- **Human Resource Management System (HRMS)**
-- **Learning Management System (LMS)**
-- **Point Of Sale (POS)**
+I am Waleed Bin Naeem,
+Founder of [Solutions Boat](https://solutionsboat.com/) and a Full Stack Developer, I've worked with 100s of clients as a freelancer for "Websites and Mobile Apps Development" work with **[5 Stars Rating](https://www.behance.net/gallery/172790989/Testimonials)**.
 
 #### Expertise:
 I specialize in developing software using Flutter (Dart) and C# technologies. My experience includes working with:
@@ -24,6 +20,11 @@ I specialize in developing software using Flutter (Dart) and C# technologies. My
 - **Dart**
 - **Firebase**
 - **WordPress**
+
+#### Current Projects:
+- **Human Resource Management System (HRMS)**
+- **Learning Management System (LMS)**
+- **Point Of Sale (POS)**
 
 #### Previous Projects:
 - Digital Services Management System
