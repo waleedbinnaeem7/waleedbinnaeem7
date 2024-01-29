@@ -8,7 +8,7 @@
 </div>
 
 I am Waleed Bin Naeem,
-Founder of [Solutions Boat](https://solutionsboat.com/) and a Full Stack Developer, I've worked with 100s of clients as a freelancer for "Websites and Mobile Apps Development" work with **[5 Stars Rating](https://www.behance.net/gallery/172790989/Testimonials)**.
+Founder of [Solutions Boat](https://solutionsboat.com/) and a Full Stack Developer, I've worked in different companies and also worked with 100s of clients as a freelancer for "Websites and Mobile Apps Development" work with **[5 Stars Rating](https://www.behance.net/gallery/172790989/Testimonials)**.
 
 #### Expertise:
 I specialize in developing software using Flutter (Dart) and C# technologies. My experience includes working with:
